@@ -1,0 +1,10 @@
+stack=[]
+stack.append("Nakuru")
+stack.append("Kiambu")
+stack.append("Kisumu")
+stack.append("Nairobi")
+stack.append("Baringo")
+print(stack)
+print(stack.pop())
+stack.append("Kakamega")
+print(stack)
