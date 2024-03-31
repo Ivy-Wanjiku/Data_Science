@@ -1,0 +1,12 @@
+names=("Ivy","Gladwell","Frida","Nataly","Wanjiku")
+print (names)
+print(names[1])
+print(names[2:4])
+nameList=list(names)
+nameList.remove("Frida")
+
+print (nameList)
+nameList.append("Gitahi")
+print (nameList)
+names1=tuple(nameList)
+print(names1)
