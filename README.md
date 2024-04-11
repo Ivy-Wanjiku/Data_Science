@@ -1,36 +1,30 @@
-<h1>Data Science Projects</h1>
+# Data Science Projects
 In this repository, you will find different data science files.
 
-<h2>Tupples</h2>
-<p>Tupples are ordered collections of values that can be of any data type but are immutable, meaning they cannot be modified once created.</p>
+## Tupples
+Tupples are ordered collections of values that can be of any data type but are immutable, meaning they cannot be modified once created.
 
-<h3>Applications of Tupples<h3>
-<ul>
-Storing Coordinates
-<br>
-Storing data and time
-<br>
-Return multiple values from a function
-<br>
-</ul>
-<h2>Stack</h2>
+### Applications of Tupples
+- Storing Coordinates
+ - Storing data and time
 
-<p> A stack is a linear data structure that follows the Last-In-First-Out principle. For example, the last phone call you had will be the first one to be displayed on the phone call log</p>
+ - Return multiple values from a function
 
-<h3>Implementation of stack</h3>
-<ul>
+
+## Stack
+
+ A stack is a linear data structure that follows the Last-In-First-Out principle. For example, the last phone call you had will be the first one to be displayed on the phone call log
+
+### Implementation of stack
+
 Using List
-<br>
 Using Custom Stack class
-</ul>
-<h3>Stack Application<h3>
-<ul>
-Express Evaluation 
-<br>
-Parentheses matching 
-<br>
-Graph  traversal and backtracking
-<br>
-Recursion
-</ul>
+### Stack Application
+
+-Express Evaluation 
+
+-Parentheses matching 
+-Graph  traversal and backtracking
+-Recursion
+
 
