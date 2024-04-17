@@ -23,8 +23,14 @@ Using Custom Stack class
 
 -Express Evaluation 
 
--Parentheses matching 
--Graph  traversal and backtracking
--Recursion
+- Parentheses matching 
+- Graph  traversal and backtracking
+- Recursion
+
+## Queue
+
+This is a data structure that follows the FIFO principle.
+It operates like a line where elements are added at one end and removed from the other.
+
 
 
