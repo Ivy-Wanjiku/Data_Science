@@ -1,3 +1,4 @@
+
 # Data Science Projects
 In this repository, you will find different data science files.
 
@@ -31,6 +32,4 @@ Using Custom Stack class
 
 This is a data structure that follows the FIFO principle.
 It operates like a line where elements are added at one end and removed from the other.
-
-
 
